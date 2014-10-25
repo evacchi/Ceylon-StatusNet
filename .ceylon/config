@@ -1,0 +1,9 @@
+
+[defaults]
+encoding=US-ASCII
+
+[repositories]
+remote=aether
+
+[formattool]
+profile=default
